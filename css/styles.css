@@ -282,7 +282,7 @@ header {
     border-radius: 50%;
     border:1px solid rgba(0, 0, 0, 0.1);
     background-color: var(--main-body-color);
-    background-image: url(../images/Vector.svg);
+    background-image: url(../images/vector.svg);
     background-repeat: no-repeat;
     cursor: pointer; 
     background-position: 50% 50%;
